@@ -1,0 +1,14 @@
+.GraphBoxStyle {
+    float: left;
+    width: 30%;
+    max-width: 90%;
+    height: 60%px;
+    border:  1px solid #555;
+    box-shadow: 0px 0px 8px rgb(47, 0, 134);
+    resize: both;
+    overflow: hidden;
+    color: #2CC;
+    background-color: rgb(41, 41, 75);
+    margin-right: 3px;
+    border-radius: 10px;
+}
